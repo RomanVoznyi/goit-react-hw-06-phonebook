@@ -1,0 +1,14 @@
+.App {
+  width: 100%;
+  min-height: 100vh;
+
+  background-color: aquamarine;
+  border: 1px solid blue;
+  border-radius: 5px;
+}
+
+.counterBox {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
